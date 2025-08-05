@@ -1,3 +1,5 @@
+import * as THREE from "../libs/three.module.min.js";
+
 const vshader = `
 varying vec2 v_uv;
 varying vec3 v_position;
